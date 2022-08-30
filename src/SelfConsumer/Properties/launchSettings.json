@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LatestConsumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

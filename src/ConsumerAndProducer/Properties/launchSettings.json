@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ConsumerAndProducer_Dev": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "ConsumerAndProducer_Pro": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}

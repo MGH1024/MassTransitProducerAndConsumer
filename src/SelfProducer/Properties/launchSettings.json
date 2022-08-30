@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "SelfProducer_Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "SelfProducer_Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
